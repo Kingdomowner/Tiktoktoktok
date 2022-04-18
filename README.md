@@ -4,7 +4,7 @@ This is [kingdom Family Channel](https://t.me/kingdom_family_chanel) Product
 
 ## Heroku Deployment 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Masterofkingdom/Tik-tok-downloader-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Masterofkingdom/Tiktoktoktok)
 
 
 ### Join our channel & group
